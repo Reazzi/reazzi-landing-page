@@ -68,16 +68,6 @@
     },
     "footer": {
         "colors": "colors-a",
-        "logo": {
-            "caption": "Caption of the image",
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock"
-        },
         "contacts": {
             "title": "Contact details",
             "email": "hello@reazzi.com",
