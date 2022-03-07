@@ -116,6 +116,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+    subtitle: 'Bringing '
   - elementId: ''
     variant: variant-b
     colors: colors-a
