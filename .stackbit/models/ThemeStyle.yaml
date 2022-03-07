@@ -20,7 +20,7 @@ fields:
       - label: Sans alt
         value: sansAlt
       - label: Baloo
-        value: sansAlt
+        value: baloo
   - type: object
     name: h1
     label: H1
