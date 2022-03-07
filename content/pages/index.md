@@ -13,11 +13,7 @@ sections:
 
 
       Real quick. Real Eazi. Reazzi.
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.png
