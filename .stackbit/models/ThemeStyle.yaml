@@ -571,7 +571,7 @@ fields:
       - label: Sans alt
         value: sansAlt
       - label: Baloo
-      value: baloo
+        value: baloo
   - type: color
     name: main
     label: Site background
