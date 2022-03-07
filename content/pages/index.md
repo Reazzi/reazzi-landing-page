@@ -129,6 +129,7 @@ sections:
       - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
       - content/data/team/person-a7lh066i5.json
+      - content/data/team/person-0qzu1knj1.json
     styles:
       self:
         height: auto
