@@ -53,7 +53,7 @@ sections:
     type: HeroSection
   - colors: colors-c
     elementId: ''
-    title: How Reazzi Can Help You
+    title: How Will Reazzi Help
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
