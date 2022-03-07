@@ -123,7 +123,7 @@ sections:
     variant: variant-b
     colors: colors-a
     title: The Team
-    subtitle: Featured people section example
+    subtitle: Meet the people behind Reazzi
     actions: []
     people:
       - content/data/team/desmond-eagle.json
