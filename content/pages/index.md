@@ -7,7 +7,7 @@ sections:
     title: Reazzi
     subtitle: ''
     text: >
-      Reazzi is here to make you mortgage woes disappear. We want to help you
+      Reazzi is here to make your mortgage woes disappear. We want to help you
       buy a house in a day. Buying your first home? Real eazy. Refinancing? Real
       eazy. Investing? Real Eazy.
 
