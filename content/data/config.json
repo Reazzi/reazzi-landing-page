@@ -7,14 +7,7 @@
         "secondaryColors": "colors-f",
         "title": "Reazzi",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
