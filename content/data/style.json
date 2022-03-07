@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontHeadlines": "sans",
+    "fontHeadlines": "baloo",
     "h1": {
         "size": "6xl",
         "weight": "normal",
