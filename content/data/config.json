@@ -69,7 +69,6 @@
     "footer": {
         "colors": "colors-a",
         "logo": {
-            "altText": "Reazzi",
             "caption": "Caption of the image",
             "elementId": "",
             "styles": {
