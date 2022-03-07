@@ -54,9 +54,6 @@ sections:
   - colors: colors-c
     elementId: ''
     title: How Will Reazzi Help
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
     items:
       - type: FeaturedItem
         title: Faster
