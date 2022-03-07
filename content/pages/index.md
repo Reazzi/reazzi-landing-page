@@ -6,12 +6,6 @@ sections:
     colors: colors-a
     title: Reazzi
     subtitle: ''
-    badge:
-      label: This is the badge
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
     text: >
       Reazzi is here to make you mortgage woes disappear. We want to help you
       buy a house in a day. Buying your first home? Real eazy. Refinancing? Real
