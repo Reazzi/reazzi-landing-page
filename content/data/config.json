@@ -67,14 +67,6 @@
                 "icon": "facebook"
             },
             {
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
-            },
-            {
                 "label": "LinkedIn",
                 "altText": "LinkedIn",
                 "url": "linkedin.com/company/Reazzi/",
