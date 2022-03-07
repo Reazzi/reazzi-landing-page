@@ -19,6 +19,8 @@ fields:
         value: sans
       - label: Sans alt
         value: sansAlt
+      - label: Sans alt
+        value: sansAlt
   - type: object
     name: h1
     label: H1
