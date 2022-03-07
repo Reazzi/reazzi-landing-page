@@ -35,7 +35,7 @@ module.exports = {
             fontFamily: {
                 sans: ['Poppins', 'sans-serif'],
                 sansAlt: ['Noto Sans Display', 'sans-serif'],
-                sansAlt: ['Noto Sans Display', 'sans-serif'],
+                baloo: ['Noto Sans Display', 'sans-serif'],
             }
         }
     },
