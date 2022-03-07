@@ -121,7 +121,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     variant: variant-c
-    colors: colors-h
+    colors: colors-b
     title: About us
     subtitle: Featured people section example
     actions: []
