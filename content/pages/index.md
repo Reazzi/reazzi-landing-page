@@ -122,7 +122,7 @@ sections:
   - elementId: ''
     variant: variant-b
     colors: colors-a
-    title: About us
+    title: The Team
     subtitle: Featured people section example
     actions: []
     people:
