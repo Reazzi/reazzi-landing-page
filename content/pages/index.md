@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: Reazzi
     subtitle: ''
     badge:
       label: This is the badge
