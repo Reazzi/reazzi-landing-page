@@ -120,7 +120,7 @@ sections:
         justifyContent: center
     type: FeaturedItemsSection
   - elementId: ''
-    variant: variant-c
+    variant: variant-b
     colors: colors-a
     title: About us
     subtitle: Featured people section example
