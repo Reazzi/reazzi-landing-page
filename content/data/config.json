@@ -67,7 +67,7 @@
         }
     },
     "footer": {
-        "colors": "colors-h",
+        "colors": "colors-b",
         "logo": {
             "altText": "Reazzi",
             "caption": "Caption of the image",
