@@ -116,7 +116,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
-    subtitle: 'Buy a house in a day. '
+    subtitle: 'Buy a house in a day. Real '
   - elementId: ''
     variant: variant-b
     colors: colors-a
