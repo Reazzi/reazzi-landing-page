@@ -89,14 +89,7 @@
             "addressAltText": "Our home"
         },
         "copyrightText": "Reazzi ACN: \\<ABC123>\n",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
