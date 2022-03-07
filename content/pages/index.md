@@ -12,10 +12,13 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      Reazzi is here to make you mortgage woes disappear. We want to help you
+      buy a house in a day. Buying your first home? Real eazy. Refinancing? Real
+      eazy. Investing? Real Eazy.
+
+
+      Real quick. Real Eazi. Reazzi.
     actions:
       - type: Button
         label: Sign Up
