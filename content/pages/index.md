@@ -53,7 +53,7 @@ sections:
     type: HeroSection
   - colors: colors-c
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: How Reazzi Can Help You
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
