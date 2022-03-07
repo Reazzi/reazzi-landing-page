@@ -116,7 +116,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
-    subtitle: 'Bringing '
+    subtitle: Bringing finances
   - elementId: ''
     variant: variant-b
     colors: colors-a
