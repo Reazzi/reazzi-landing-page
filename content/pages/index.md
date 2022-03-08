@@ -45,7 +45,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     badge:
-      label: This is the badge
+      label: Reazzi
       elementId: ''
       styles:
         self:
