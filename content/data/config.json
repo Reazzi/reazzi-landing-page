@@ -7,19 +7,7 @@
         "secondaryColors": "colors-f",
         "title": "Reazzi",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "primary",
-                "elementId": "",
-                "type": "Button"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
