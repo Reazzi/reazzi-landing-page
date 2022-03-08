@@ -16,7 +16,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/logo-holding-app-login-screen.png
       altText: Hero image
     styles:
       self:
