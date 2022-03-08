@@ -16,7 +16,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/logo-holding-app-login-screen.png
+      url: /images/brandmark-design-1800x0.png
       altText: Hero image
     styles:
       self:
