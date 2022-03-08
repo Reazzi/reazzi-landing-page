@@ -6,7 +6,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "Reazzi",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
