@@ -86,7 +86,7 @@ sections:
             textAlign: center
     actions: []
     columns: 3
-    enableHover: true
+    enableHover: false
     styles:
       self:
         height: auto
