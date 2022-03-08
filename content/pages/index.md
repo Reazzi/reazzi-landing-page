@@ -44,12 +44,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    badge:
-      label: Reazzi
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
   - colors: colors-c
     elementId: ''
     title: How Will Reazzi Help
