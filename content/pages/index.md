@@ -10,13 +10,15 @@ sections:
       Reazzi paves the way to make your finances a cinch! Regardless of your
       experience or knowledge we’ll guide you to success. Whether you are a
       first home buyer uncertain on the home ownership journey or a seasoned
-      investor looking to refinance your portfolio. 
+      investor looking to refinance your portfolio.
 
 
-      We're bring
+      Our **smart apply** engine will bring every loan, from everywhere, so you
+      can spend less time worrying about finances and more time finding your
+      dream home.
 
 
-      Every step is Reazzi…*that is Real Quick, and Real Eazy.*
+      Every step is **Reazzi**…*that is Real Quick, and Real Eazy.*
     actions: []
     media:
       type: ImageBlock
