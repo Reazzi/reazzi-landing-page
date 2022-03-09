@@ -81,7 +81,7 @@ sections:
           finding your perfect home and less time dealing with the banks.
         featuredImage:
           type: ImageBlock
-          url: /images/focused.svg
+          url: /images/noun-snap-1984955.png
           altText: Item image
         styles:
           self:
