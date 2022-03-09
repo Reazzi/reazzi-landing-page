@@ -46,7 +46,7 @@ sections:
     type: HeroSection
   - colors: colors-e
     elementId: ''
-    title: How Will Reazzi Help
+    title: How Will Reazzi Help?
     items:
       - type: FeaturedItem
         title: 'Transparency '
