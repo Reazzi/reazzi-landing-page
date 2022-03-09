@@ -3,7 +3,7 @@
     "favicon": "/images/logo-brandmark-design.png",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-c",
         "secondaryColors": "colors-f",
         "title": "Reazzi",
         "isTitleVisible": false,
