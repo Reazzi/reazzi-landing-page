@@ -44,7 +44,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-c
+  - colors: colors-e
     elementId: ''
     title: How Will Reazzi Help
     items:
