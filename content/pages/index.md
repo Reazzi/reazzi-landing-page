@@ -7,12 +7,16 @@ sections:
     title: Reazzi
     subtitle: 'Real Quick, Real Eazy, Reazzi'
     text: >
-      Reazzi is here to make your mortgage woes disappear. We want to help you
-      buy a house in a day. Buying your first home? Real eazy. Refinancing? Real
-      eazy. Investing? Real Eazy.
+      Reazzi paves the way to make your finances a cinch! Regardless of your
+      experience or knowledge we’ll guide you to success. Whether you are a
+      first home buyer uncertain on the home ownership journey or a seasoned
+      investor looking to refinance your portfolio. 
 
 
-      Real quick. Real Eazi. Reazzi.
+      We're bring
+
+
+      Every step is Reazzi…*that is Real Quick, and Real Eazy.*
     actions: []
     media:
       type: ImageBlock
