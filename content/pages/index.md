@@ -76,9 +76,9 @@ sections:
       - type: FeaturedItem
         title: Speed
         text: >
-          Bringing home loans into the 21st century, **Reazzi** will use the its
-          data engine to expedite your application allowing you to spend more
-          time finding your perfect home and less time dealing with the banks.
+          Bringing home loans into the 21st century, **Reazzi's Smart Apply**
+          engine will expedite your application allowing you to spend more time
+          finding your perfect home and less time dealing with the banks.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
