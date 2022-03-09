@@ -49,7 +49,7 @@ sections:
     title: How Will Reazzi Help
     items:
       - type: FeaturedItem
-        title: Transper
+        title: 'Transperency '
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
