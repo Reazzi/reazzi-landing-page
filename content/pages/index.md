@@ -7,15 +7,15 @@ sections:
     title: Reazzi
     subtitle: Real Quick. Real Eazy.
     text: >
-      Reazzi paves the way to make your finances a cinch! Regardless of your
+      **Reazzi** paves the way to make your finances a cinch! Regardless of your
       experience or knowledge we’ll guide you to success. Whether you are a
       first home buyer uncertain on the home ownership journey or a seasoned
       investor looking to refinance your portfolio.
 
 
-      Our **smart apply** engine will bring every loan, from everywhere, so you
-      can spend less time worrying about finances and more time finding your
-      dream home.
+      With our **smart apply** engine you can apply for any loan, from
+      everywhere, so you can spend less time worrying about finances and more
+      time finding your dream home.
 
 
       Every step is **Reazzi**…*that is Real Quick, and Real Eazy.*
