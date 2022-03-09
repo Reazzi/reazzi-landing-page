@@ -56,7 +56,7 @@ sections:
           product available.
         featuredImage:
           type: ImageBlock
-          url: /images/icons8-analytics-64.png
+          url: /images/15984328721530513410-128.png
           altText: Item image
         styles:
           self:
