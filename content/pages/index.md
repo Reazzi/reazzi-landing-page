@@ -53,7 +53,7 @@ sections:
         text: >
           We've searched far and wide to find **every** available home loan so
           you don't have to! **Reazzi** will always allow you to search every
-          product available option.
+          product available.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
