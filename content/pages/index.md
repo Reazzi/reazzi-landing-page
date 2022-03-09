@@ -68,7 +68,7 @@ sections:
           you forward and get the perfect home loan for your situation.
         featuredImage:
           type: ImageBlock
-          url: /images/16235136021643432432.svg
+          url: /images/16235136021643432432-128.png
           altText: Item image
         styles:
           self:
