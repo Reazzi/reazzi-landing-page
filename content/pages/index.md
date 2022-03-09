@@ -75,9 +75,10 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Speed
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          Bringing home loans into the 21st century, **Reazzi** will use the its
+          data engine to expedite your application allowing you to spend more
+          time finding your perfect home and less time dealing with the banks.
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
