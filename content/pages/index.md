@@ -62,7 +62,7 @@ sections:
           self:
             textAlign: center
       - type: FeaturedItem
-        title: Customer Focused
+        title: Ease
         text: >
           Regardless of where you are in the process, we're here to help take
           you forward and get the perfect home loan for your situation.
