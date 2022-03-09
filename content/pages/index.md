@@ -144,7 +144,7 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     backgroundSize: full
     title: Contact us
     text: We look forward to hearing from you.
