@@ -56,7 +56,7 @@ sections:
           product available.
         featuredImage:
           type: ImageBlock
-          url: /images/faster.svg
+          url: /images/icons8-analytics-64.png
           altText: Item image
         styles:
           self:
