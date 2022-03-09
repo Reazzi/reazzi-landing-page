@@ -111,6 +111,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
+    subtitle: 'Real quick. Real Eazy. '
   - elementId: ''
     variant: variant-b
     colors: colors-a
