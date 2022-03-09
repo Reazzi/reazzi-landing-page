@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Reazzi
-    subtitle: 'Real Quick, Real Eazy, Reazzi'
+    subtitle: Real Quick. Real Eazy.
     text: >
       Reazzi paves the way to make your finances a cinch! Regardless of your
       experience or knowledge we’ll guide you to success. Whether you are a
