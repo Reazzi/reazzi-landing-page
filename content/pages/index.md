@@ -51,11 +51,9 @@ sections:
       - type: FeaturedItem
         title: 'Transparency '
         text: >
-          Unlike some, we've searched far and wide to find every available home
-          loan so you don't have to.
-
-
-          Reazzi will always allow you to search every available option.
+          We've searched far and wide to find **every** available home loan so
+          you don't have to! **Reazzi** will always allow you to search every
+          product available option.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
