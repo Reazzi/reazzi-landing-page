@@ -63,9 +63,9 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: Speed
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          Regardless of where you are in the process, we're here to help take
+          you forward and get the perfect home loan for your situation.
         featuredImage:
           type: ImageBlock
           url: /images/smarter.svg
