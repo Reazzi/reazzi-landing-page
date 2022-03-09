@@ -50,9 +50,12 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Transparency '
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: >
+          Unlike some, we've searched far and wide to find every available home
+          loan so you don't have to.
+
+
+          Reazzi will always allow you to search every available option.
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
