@@ -170,7 +170,7 @@ sections:
         - type: TextFormControl
           name: address
           label: Message
-          placeholder: Your home address
+          placeholder: Your message
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
