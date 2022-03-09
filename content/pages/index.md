@@ -111,7 +111,6 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedItemsSection
-    subtitle: 'Buy a house in a day. Real quick, real eazy.'
   - elementId: ''
     variant: variant-b
     colors: colors-a
