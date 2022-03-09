@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Reazzi
-    subtitle: ''
+    subtitle: Real Quick. Rea
     text: >
       Reazzi is here to make your mortgage woes disappear. We want to help you
       buy a house in a day. Buying your first home? Real eazy. Refinancing? Real
